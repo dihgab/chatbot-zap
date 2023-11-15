@@ -10,4 +10,6 @@
 ### dependencias
 - pip install flask
 - pip install playwright
+- playwright install
+- pip install virtualenv
 - pip install os-sys
